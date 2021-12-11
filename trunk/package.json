@@ -1,0 +1,8 @@
+{
+  "name": "newyear",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:GreatSociety/NewYear.git",
+  "author": "DRT1000 <drt10000@gmail.com>",
+  "license": "MIT"
+}
